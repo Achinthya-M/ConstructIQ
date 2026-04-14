@@ -1,0 +1,21 @@
+Ref,Status,Location,Description,Type,Priority,Cause,Project,Task Group
+R001,Open,Chennai,Cement bags for slab casting,Expense,High,Material shortage,House A,Material
+R002,Open,Chennai,Sand truck delivery to site,Expense,Medium,Procurement,House A,Material
+R003,Closed,Delhi,Brick purchase for boundary wall,Expense,Medium,Construction phase,House B,Material
+R004,Open,Mumbai,Steel rods for column reinforcement,Expense,High,Structural work,House C,Material
+R005,Closed,Pune,Paint and putty for interior finishing,Expense,Low,Finishing stage,House D,Material
+R006,Open,Hyderabad,Daily wage for 10 workers,Expense,High,Labor demand,House A,Labor
+R007,Open,Kolkata,Payment to plumber team,Expense,Medium,Installation task,House B,Labor
+R008,Closed,Bangalore,Electrician labor charges,Expense,Medium,Wiring task,House C,Labor
+R009,Open,Jaipur,Mason labor for wall construction,Expense,High,Execution work,House D,Labor
+R010,Closed,Lucknow,Carpenter wages for door fitting,Expense,Low,Wood work,House A,Labor
+R011,Open,Chennai,Fuel for pickup vehicle,Expense,Medium,Transport usage,House B,Travel
+R012,Closed,Delhi,Bus fare for site engineers,Expense,Low,Travel need,House C,Travel
+R013,Open,Mumbai,Diesel refill for transport van,Expense,Medium,Logistics,House D,Travel
+R014,Open,Pune,Intercity travel reimbursement,Expense,Low,Coordination visit,House A,Travel
+R015,Closed,Hyderabad,Travel cost for supplier meeting,Expense,Low,Vendor coordination,House B,Travel
+R016,Open,Kolkata,Machine rental for excavation,Expense,High,Site prep,House C,Equipment
+R017,Open,Bangalore,Power tools purchase for fitting,Expense,Medium,Task requirement,House D,Equipment
+R018,Closed,Jaipur,Concrete mixer repair and servicing,Expense,Medium,Maintenance,House A,Equipment
+R019,Open,Lucknow,New drilling machine purchase,Expense,High,Equipment upgrade,House B,Equipment
+R020,Closed,Chennai,Scaffolding tools rental charge,Expense,Medium,Work at height,House C,Equipment
